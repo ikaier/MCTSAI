@@ -1,6 +1,8 @@
 # pentago_twist
 
-![](https://github.com/SaminYeasar/pentago_twist/blob/main/image/game.gif)
+This repo is a copy of [SaminYeasar's repo](https://github.com/SaminYeasar/pentago_twist) with addition of my own implementation of student_player.
+
+![](image/game.gif)
 
 
 Pentago-Twist falls into the Moku family of games. Other popular games in this category include Tic-Tac-Toe and Connect-4, although Pentago-Twist has significantly more complexity. The biggest difference in

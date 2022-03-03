@@ -2,7 +2,7 @@
 
 This repo is a copy of [SaminYeasar's repo](https://github.com/SaminYeasar/pentago_twist) with addition of my own implementation of student_player.
 
-For details of my implementation, please see the [report](https://github.com/ikaier/MCTSAI/blob/master/COMP_424__code_description.pdf).
+For details of my implementation, please see the [report](https://github.com/ikaier/MCTSAI/blob/master/submission/report.pdf).
 
 ![](image/game.gif)
 
